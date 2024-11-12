@@ -1,4 +1,6 @@
-# recaptured-image-detection-ICDIP-2022
+# 只有训练没有数据集 晚点测试
+
+recaptured-image-detection-ICDIP-2022
 An open source code for paper "Identifying Recaptured Images Using Deep Correlation"
 
 
